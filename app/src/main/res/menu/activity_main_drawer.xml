@@ -5,6 +5,6 @@
         <item
             android:id="@+id/nav_hotels"
             android:icon="@drawable/ic_menu_manage"
-            android:title="Add Hotel" />
+            android:title="View Hotels" />
     </group>
 </menu>
